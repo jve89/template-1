@@ -33,3 +33,4 @@
     placeholder.txt
   CONTRIBUTING.md
   .env.example
+  TEMPLATE_COMPLETE.md
